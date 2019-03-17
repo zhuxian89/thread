@@ -11,6 +11,7 @@
     <module>../threaddemo</module>
       <module>../javabase</module>
       <module>../java8</module>
+      <module>../RxJava</module>
   </modules>
   <packaging>pom</packaging>
 
