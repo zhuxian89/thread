@@ -15,6 +15,7 @@ public class Demo1 {
     public static void main(String[] args) {
         final A a = new A();
 
+
         Thread thread1 = new Thread(new Runnable() {
             @Override
             public void run() {
