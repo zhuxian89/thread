@@ -1,4 +1,4 @@
-package com.hfview.CompleatableFuture;
+package com.hfview.compleatableFuture;
 
 import java.util.Random;
 import java.util.concurrent.*;
